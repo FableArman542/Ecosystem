@@ -1,2 +1,2 @@
 # Ecosystem
-Ecosystem of animals in JAVA
+Ecosystem of animals in JAVA Processing
